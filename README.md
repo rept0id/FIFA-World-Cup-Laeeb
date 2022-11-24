@@ -14,25 +14,14 @@
 
 # Introduction
 
-Looks like you need some help. 
-
-Looks like he wants to be a star again.
-
-Really he wants. Check ! : https://www.youtube.com/watch?v=Pp1-fLQKmkk (on 1:43) 
 
 <br>
-
-![githubImg2](https://github.com/rept0id/clippy/blob/clippy_main/assets/img/githubImg1.gif?raw=true)
 
 # Description
 
-**I believe Clippy deserves some space on my desktop again.**
-
-**Clippy on your desktop staring at you. That's it. Run it and have fun !**
-
 <br>
 
-![Screenshot](https://github.com/rept0id/FIFA-World-Cup-Laeeb/blob/FIFA-World-Cup-Laeeb_main/assets/img/screenshot1.png?raw=true)
+![Screenshot](https://github.com/rept0id/FIFA-World-Cup-Laeeb/blob/main/assets/img/screenshot1.png?raw=true)
 
 
 # Usage
@@ -50,8 +39,6 @@ Start Clippy and he will pop on your screen, staring at you.
 Click on Clippy and he goes away. Dont worry, you can start him again, he is here to stay.
 
 <br>
-
-![githubImg2](https://github.com/rept0id/FIFA-World-Cup-Laeeb/blob/FIFA-World-Cup-Laeeb_main/assets/img/githubImg2.gif?raw=true)
 
 # Developer notes
 
