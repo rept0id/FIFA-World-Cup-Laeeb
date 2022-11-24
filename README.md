@@ -51,7 +51,7 @@ Click on Clippy and he goes away. Dont worry, you can start him again, he is her
 
 <br>
 
-![githubImg2](https://github.com/rept0id/clippy/blob/clippy_main/assets/img/githubImg2.gif?raw=true)
+![githubImg2](https://github.com/rept0id/FIFA-World-Cup-Laeeb/blob/FIFA-World-Cup-Laeeb_main/assets/img/githubImg2.gif?raw=true)
 
 # Developer notes
 
